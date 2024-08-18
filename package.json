@@ -2,7 +2,7 @@
   "name": "lofi-todo",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/dev-radadia/Lofi-Todo.git",
+  "repository": "https://github.com/dev-radadia/Lofi-Study.git",
   "author": "Dev Radadia <dev2003radadia@gmail.com>",
   "scripts": {
     "server": "nodemon --config nodemon.json backend/server.ts",

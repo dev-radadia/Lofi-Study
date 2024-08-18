@@ -67,7 +67,7 @@ const Dashboard = () => {
             <TaskTracker />
           </div>
           <div className="section middle">
-            <Header title="Lofi To-Do" />
+            <Header title="lofi study" />
             <div className="slideshow">
               <ImageContainer
                 onLoad={() => {
