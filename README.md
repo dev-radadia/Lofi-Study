@@ -2,19 +2,19 @@
 
 ## About
 
-Lo-fi and pixel-art themed virtual study environment, equipped with an editable lofi radio, timer, to-do list and relaxing sound effects. This project was essentially born out of my desire for an all-in-one space for all my study needs throughout university.
+Lo-fi and pixel-art themed virtual study environment, equipped with an editable lofi radio, timer, to-do list, and relaxing sound effects. This project was essentially born out of my desire for an all-in-one space for all my study needs throughout the university.
 
 Check out the web application at: 
 
 ## Features
 
-- User authorisation and authentication
+- User authorization and authentication
 - Simple timer
-- Customisable playlist that allows users to paste in their own youtube links to listen to
+- Customisable playlist that allows users to paste in their YouTube links to listen to
 - Controllable radio that plays directly from the playlist
 - To-do list that allows users to input tasks and mark tasks as done
 - Customisable background color via an interactive color picker
-- Adjustable sound effects that allows users to craft their own ambient sounds
+- Adjustable sound effects that allow users to craft their ambient sounds
 - CRUD operations on all features
 
 ## Technologies
